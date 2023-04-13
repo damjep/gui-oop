@@ -23,7 +23,8 @@ public class Gui {
 
     public void createUIComponents() {
         // TODO: place custom component creation code here
-        panelTxt.getAccessibleContext().getAccessibleComponent(frame);
+        txt = new JTextArea("Hello");
+        panelTxt = new JPanel();
         panelTxt.add(txt);
     }
 

@@ -1,7 +1,7 @@
 package OOP.ec22819.MP;
 
-import OOP.ec22819.A8.Item;
-import OOP.ec22819.A8.Visitor;
+import OOP.ec22819.MP.Item;
+import OOP.ec22819.MP.Visitor;
 
 import javax.swing.*;
 import java.awt.*;
